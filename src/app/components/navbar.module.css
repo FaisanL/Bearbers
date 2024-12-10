@@ -1,0 +1,13 @@
+.backnav {
+  background-color: var(--background-color);
+}
+.links {
+  color: var(--text-color);
+}
+.links:hover {
+  color: var(--text-hover);
+}
+.pNav {
+  color: var(--text-color);
+  pointer-events: none;
+}
